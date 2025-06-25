@@ -103,5 +103,3 @@ flowchart TD
 ```
 
 ---
-
-*Crafted with ❤️ for the AndroFit team – let's redefine workouts together!* 
